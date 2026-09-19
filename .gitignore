@@ -1,0 +1,7 @@
+node_modules/
+.env
+firstClass.js
+indexing.js
+backend/schema.js
+backend/server_HTTP.js
+backend/server.js
